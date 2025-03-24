@@ -1,1 +1,6 @@
-a
+node_modules/
+dist/
+scss/
+yarn.lock
+webpack/build/
+package-lock.json
